@@ -1,0 +1,40 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "pictureUrl": "/assets/images/0001.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    },
+    {
+      "id": 2,
+      "pictureUrl": "/assets/images/0002.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    },
+    {
+      "id": 3,
+      "pictureUrl": "/assets/images/0003.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    },
+    {
+      "id": 4,
+      "pictureUrl": "/assets/images/0004.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    },
+    {
+      "id": 5,
+      "pictureUrl": "/assets/images/0005.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    },
+    {
+      "id": 6,
+      "pictureUrl": "/assets/images/0006.jpg",
+      "maxHeight": "80vh",
+      "maxWidth": "100vw"
+    }
+  ]
+}
